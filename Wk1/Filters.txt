@@ -1,0 +1,12 @@
+Filters
+
+Within Compass: Time
+{"_meta.inserted_at": {$gt: new Date('2021-02-20')} }
+
+Within Jupyter
+results = collection.find({"_meta.inserted_at": {"$gte": datetime(2021,2,20,9,0,0),
+                                "$lte":datetime(2021,2,28,9,0,0)}, 
+                                "origin": {"$ne": None}, 
+                                "edge_id": {"$ne": None}, 
+                                "target":{"$ne":None},
+                                "succeeded":True})

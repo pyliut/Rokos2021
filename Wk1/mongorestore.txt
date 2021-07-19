@@ -1,0 +1,18 @@
+Mongorestore
+
+How to use mongorestore
+1. Open mongo.exe from C ==> Program Files ==> MongoDB
+2. Open Command Prompt
+3. Make sure the BSON & JSON files are contained within a a folder called "dump"
+4. Navigate to folder CONTAINING the "dump" folder in command prompt
+5. mongorestore --host 127.0.0.1 --port 27017 -d Rokos2021
+
+How to open localhost - use mongo compass
+1. Connect
+2. Fill in connection field individually
+3. Hostname: 127.0.0.1
+4. Port: 27017
+5. Authentication: None
+
+To connect to computer database via url
+mongodb://127.0.0.1:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false
