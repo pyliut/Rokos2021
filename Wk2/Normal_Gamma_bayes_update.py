@@ -90,9 +90,9 @@ def Normal_Gamma_bayes_update(mean_test, var_test, posterior, t_obs, threshold =
     #4) Plot
     fig = plt.figure()
     ax = plt.axes(projection='3d')
-    ax.contour3D(mean_test, var_test, posterior, 50, cmap=cm.coolwarm)
-    ax.set_xlabel('mean')
-    ax.set_ylabel('var')
+    ax.contour3D(var_test, mean_test, posterior, 50, cmap=cm.coolwarm)
+    ax.set_xlabel('var')
+    ax.set_ylabel('mean')
     ax.set_zlabel('prob');
     
     #5) calculate error

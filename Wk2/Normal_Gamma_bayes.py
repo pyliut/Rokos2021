@@ -115,10 +115,10 @@ def Normal_Gamma_bayes(t_obs, mu_0 = 10, beta = 5, a = 1, b = 2, threshold = 0.9
     #5) Plot
     fig = plt.figure()
     ax = plt.axes(projection='3d')
-    ax.contour3D(mean_test, var_test, posterior, 50, cmap=cm.coolwarm)
+    ax.contour3D(var_test, mean_test, posterior, 50, cmap=cm.coolwarm)
     
-    ax.set_xlabel('mean')
-    ax.set_ylabel('var')
+    ax.set_xlabel('var')
+    ax.set_ylabel('mean')
     ax.set_zlabel('prob');
     
     #6) calculate error

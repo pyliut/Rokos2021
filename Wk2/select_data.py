@@ -24,4 +24,6 @@ def select_data(df, wp1 = "WayPoint69", wp2 = "WayPoint70"):
 
     """
     subset = df.loc[df["origin"].isin([wp1, wp2]) & df["target"].isin([wp1, wp2]), ["edge_id", "operation_time"]]
+    if subset.size == 0:
+        print("ERROR: empty subset")
     return subset
