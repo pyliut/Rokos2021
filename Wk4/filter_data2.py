@@ -10,6 +10,20 @@ from datetime import datetime
 from datetime import timedelta
 
 def filter_data2(df):
+    """
+    Add a column to the dataframe to show how many robots (in total) are on an edge at any time
+
+    Parameters
+    ----------
+    df : Pandas DataFrame
+        Initial DataFrame 
+
+    Returns
+    -------
+    df : Pandas DataFrame
+        Altered DataFrame 
+
+    """
     pd.options.mode.chained_assignment = None  # default='warn'
 
     df["n_robots"] = 0

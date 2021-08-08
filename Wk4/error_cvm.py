@@ -1,17 +1,19 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jul  7 16:07:59 2021
+Created on Wed Jul 21 14:44:14 2021
 
 @author: pyliu
 """
 import numpy as np
-from integrate_pdf import *
+import scipy as sp
 import matplotlib.pyplot as plt
-from copy import copy
 
-def error_ks(t_pred, p_pred, t_obs, plot_graph = True):
+from copy import copy
+from integrate_pdf import *
+
+def error_cvm(t_pred, p_pred, t_obs, plot_graph = True):
     """
-    Calculate Kolmogorov-Smirnov Distance of between observations and predicted distribution
+    Calculate Cramer-von Mises Statistic between observations and predicted distribution
 
     Parameters
     ----------
@@ -26,15 +28,15 @@ def error_ks(t_pred, p_pred, t_obs, plot_graph = True):
 
     Returns
     -------
-    D : FLOAT
-        K-S statistic
-        supremum (Greatest Lower Bound) of distances between the empirical CDF of the observations and CDF of the predicted distribution
+    w_squared : FLOAT
+        CVM statistic 
 
     """
     #1) create histogram of observed values
     n_bins = len(t_pred)
     range_min = np.min(t_pred)
     range_max = np.max(t_pred)
+    bin_width = (range_max - range_min) / n_bins
     p_hist, t_hist = np.histogram(t_obs, density = True, bins = n_bins, range = (range_min, range_max) );     
 
     #2) turn both observed & predicted pdfs in to cdfs
@@ -45,7 +47,8 @@ def error_ks(t_pred, p_pred, t_obs, plot_graph = True):
     pdf_pred /= pdf_pred[-1]            #normalise cdf
     
     #3) Calculate max distance
-    D = np.abs( np.max(pdf_pred - pdf_hist) )
+    
+    w_squared = np.sum( np.square(pdf_hist - pdf_pred) * bin_width ) 
     
     #4) Plot for visualisation
     if plot_graph == True:
@@ -53,8 +56,7 @@ def error_ks(t_pred, p_pred, t_obs, plot_graph = True):
         plt.plot(pdf_pred)
         plt.legend(["observed", "predicted"])
         plt.xlabel("samples")
-        plt.ylabel("probability (%)")
-        plt.title("K-S test: D = " + str(D))
-    
-    return D
-    
+        plt.ylabel("probability")
+        plt.title("CVM test: w_squared = " + str(w_squared))
+        
+    return w_squared

@@ -13,7 +13,7 @@ from Gaussian_broadcast import *
 from Gamma import *
 from Normal_Gamma import *
 
-def Normal_Gamma_bayes(t_obs, mu_0 = 10, beta = 5, a = 1, b = 2, threshold = 0.9):
+def Normal_Gamma_bayes(t_obs, mu_0 = 10, beta = 5, a = 1, b = 2, threshold = 0.9, plot_graph = True):
     """
     Bayesian updates for 1st len(t_obs) observations
     Assumes a unknown variance and unknown mean
@@ -113,13 +113,14 @@ def Normal_Gamma_bayes(t_obs, mu_0 = 10, beta = 5, a = 1, b = 2, threshold = 0.9
     var_map = var_test[ind[0,0]]
     
     #5) Plot
-    fig = plt.figure()
-    ax = plt.axes(projection='3d')
-    ax.contour3D(var_test, mean_test, posterior, 50, cmap=cm.coolwarm)
-    
-    ax.set_xlabel('var')
-    ax.set_ylabel('mean')
-    ax.set_zlabel('prob');
+    if plot_graph == True:
+        fig = plt.figure()
+        ax = plt.axes(projection='3d')
+        ax.contour3D(var_test, mean_test, posterior, 50, cmap=cm.coolwarm)
+        
+        ax.set_xlabel('var')
+        ax.set_ylabel('mean')
+        ax.set_zlabel('prob');
     
     #6) calculate error
 
