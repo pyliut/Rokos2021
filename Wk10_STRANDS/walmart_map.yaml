@@ -1,0 +1,6466 @@
+- meta:
+    map: unused
+    node: WayPoint1
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.200000+00:00
+    timestamp: 1613579184200927972
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint1_WayPoint2
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint2
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint1_WayPoint7
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint7
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint1
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.711008369923
+        x: -3.78093218956e-08
+        y: -1.02143005165e-09
+        z: 0.703183591366
+      position:
+        x: -53.1074981689
+        y: -34.8185005188
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint10
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.204000+00:00
+    timestamp: 1613579184204638004
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint10_WayPoint9
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint9
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint10_WayPoint11
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint11
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint10
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.721416652203
+        x: -3.96964097149e-08
+        y: 2.4349207095e-09
+        z: 0.692501306534
+      position:
+        x: -48.1977
+        y: -18.301056
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint100
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.208000+00:00
+    timestamp: 1613579184208287954
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint100_WayPoint101
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint101
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint100_WayPoint99
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint99
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint100
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.698372721672
+        x: -4.4434283808e-08
+        y: -6.39217123677e-10
+        z: 0.715734243393
+      position:
+        x: 22.3274
+        y: -12.796408
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint101
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.211000+00:00
+    timestamp: 1613579184211949110
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint101_WayPoint102
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint102
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint101_WayPoint100
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint100
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint101
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.72880500555
+        x: -3.85726224295e-08
+        y: 2.35617581001e-10
+        z: 0.684721291065
+      position:
+        x: 22.3274002075
+        y: -7.2917599678
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint102
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.215000+00:00
+    timestamp: 1613579184215329885
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint102_WayPoint95
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint95
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint102_WayPoint101
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint101
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint102_WayPoint109
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint109
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint102
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.722593188286
+        x: 3.69368038378e-08
+        y: -6.35673114147e-09
+        z: -0.691273629665
+      position:
+        x: 22.3273944855
+        y: -4.09717035294
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint103
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.218000+00:00
+    timestamp: 1613579184218841075
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint103_WayPoint96
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint96
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint103_WayPoint104
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint104
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint103
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.727743864059
+        x: -3.80168536651e-08
+        y: 2.05466296754e-10
+        z: 0.685849070549
+      position:
+        x: 29.2220001221
+        y: -34.8184509277
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint104
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.222000+00:00
+    timestamp: 1613579184222176074
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint104_WayPoint105
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint105
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint104_WayPoint103
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint103
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint104
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.70707732439
+        x: -3.89718337601e-08
+        y: 4.7413251103e-10
+        z: 0.707136273384
+      position:
+        x: 29.2221
+        y: -29.310352
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint105
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.226000+00:00
+    timestamp: 1613579184226140975
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint105_WayPoint106
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint106
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint105_WayPoint104
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint104
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint105
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.719705760479
+        x: -3.47988127203e-08
+        y: -1.11827158644e-10
+        z: 0.694279253483
+      position:
+        x: 29.2221
+        y: -23.805704
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint106
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.230000+00:00
+    timestamp: 1613579184230410099
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint106_WayPoint107
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint107
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint106_WayPoint105
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint105
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint106
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.713531136513
+        x: -3.8435430838e-08
+        y: -1.04776709531e-09
+        z: 0.700623512268
+      position:
+        x: 29.2221
+        y: -18.301056
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint107
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.233000+00:00
+    timestamp: 1613579184233728885
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint107_WayPoint108
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint108
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint107_WayPoint106
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint106
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint107
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.686608433723
+        x: -4.44156356139e-08
+        y: 3.90377202786e-10
+        z: 0.727027416229
+      position:
+        x: 29.2221
+        y: -12.796408
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint108
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.236000+00:00
+    timestamp: 1613579184236920118
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint108_WayPoint109
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint109
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint108_WayPoint107
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint107
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint108
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.7294459939
+        x: -3.86888849846e-08
+        y: -5.7222526717e-10
+        z: 0.684038460255
+      position:
+        x: 29.2220001221
+        y: -7.2917599678
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint109
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.240000+00:00
+    timestamp: 1613579184240034103
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint109_WayPoint102
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint102
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint109_WayPoint108
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint108
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint109
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.69879424572
+        x: 4.74283012863e-08
+        y: 2.1653987492e-09
+        z: -0.71532279253
+      position:
+        x: 29.2220745087
+        y: -4.0771112442
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint11
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.243000+00:00
+    timestamp: 1613579184243156909
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint11_WayPoint10
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint10
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint11_WayPoint12
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint12
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint11
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.706286787987
+        x: -4.21229167102e-08
+        y: -1.7023236154e-09
+        z: 0.707925796509
+      position:
+        x: -48.1977
+        y: -12.796408
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint110
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.246000+00:00
+    timestamp: 1613579184246625900
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint110_WayPoint68
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint68
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint110
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.696806967258
+        x: -3.610323418e-08
+        y: 4.82805961877e-10
+        z: 0.717258751392
+      position:
+        x: -2.31454992294
+        y: -38.1385002136
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint111
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.250000+00:00
+    timestamp: 1613579184250278949
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint111_WayPoint75
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint75
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint111
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.710011661053
+        x: -3.73074158233e-08
+        y: -1.11859861651e-10
+        z: 0.704189956188
+      position:
+        x: 2.60084009171
+        y: -38.1384925842
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint112
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.253000+00:00
+    timestamp: 1613579184253992080
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint112_WayPoint82
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint82
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint112
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.681907236576
+        x: -4.38496918775e-08
+        y: -8.94395113527e-11
+        z: 0.731438696384
+      position:
+        x: 8.50911998749
+        y: -38.1385002136
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint113
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.257000+00:00
+    timestamp: 1613579184257669925
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint113_WayPoint89
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint89
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint113
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.6745916605
+        x: -3.87061298568e-08
+        y: 2.56908883056e-10
+        z: 0.738191068172
+      position:
+        x: 15.4028997421
+        y: -38.1385002136
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint114
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.261000+00:00
+    timestamp: 1613579184261419057
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint114_WayPoint96
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint96
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint114
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.739556014538
+        x: -3.71398591881e-08
+        y: -3.31262739461e-10
+        z: 0.673095047474
+      position:
+        x: 22.3274002075
+        y: -38.1385002136
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint12
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.265000+00:00
+    timestamp: 1613579184265352964
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint12_WayPoint6
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint6
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint12_WayPoint11
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint11
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint12_WayPoint18
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint18
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint12
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.722411990166
+        x: 3.63518211088e-08
+        y: 3.63957197713e-09
+        z: -0.691462874413
+      position:
+        x: -48.1977005005
+        y: -7.33257579803
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint13
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.269000+00:00
+    timestamp: 1613579184269344091
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint13_WayPoint14
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint14
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint13_WayPoint7
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint7
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint13_WayPoint19
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint19
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint13
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.692204117775
+        x: -4.31405275947e-08
+        y: -3.22870619129e-10
+        z: 0.721701860428
+      position:
+        x: -43.3022
+        y: -34.8185005188
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint14
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.273000+00:00
+    timestamp: 1613579184273013114
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint14_WayPoint15
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint15
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint14_WayPoint13
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint13
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint14
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.701750218868
+        x: -4.17143901643e-08
+        y: 1.42694278615e-09
+        z: 0.712423145771
+      position:
+        x: -43.3022
+        y: -29.310352
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint15
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.276000+00:00
+    timestamp: 1613579184276819944
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint15_WayPoint16
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint16
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint15_WayPoint14
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint14
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint15
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.639711856842
+        x: -5.04814501312e-08
+        y: -8.04613353722e-09
+        z: 0.768614888191
+      position:
+        x: -43.3022
+        y: -23.805704
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint16
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.280000+00:00
+    timestamp: 1613579184280680894
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint16_WayPoint17
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint17
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint16_WayPoint15
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint15
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint16
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.704882383347
+        x: -4.28173514422e-08
+        y: -1.35352873354e-09
+        z: 0.70932418108
+      position:
+        x: -43.3022
+        y: -18.301056
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint17
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.377000+00:00
+    timestamp: 1613579184377933025
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint17_WayPoint18
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint18
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint17_WayPoint16
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint16
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint17
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.69653069973
+        x: -4.27446771312e-08
+        y: 1.81750436923e-09
+        z: 0.717527091503
+      position:
+        x: -43.3022
+        y: -12.796408
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint18
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.382000+00:00
+    timestamp: 1613579184382186889
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint18_WayPoint12
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint12
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint18_WayPoint24
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint24
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint18_WayPoint17
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint17
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint18
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.707361280918
+        x: 3.71056678716e-08
+        y: 6.17511330958e-09
+        z: -0.706852257252
+      position:
+        x: -43.3021850586
+        y: -7.32614994049
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint19
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.386000+00:00
+    timestamp: 1613579184386497974
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint19_WayPoint13
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint13
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint19_WayPoint20
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint20
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint19_WayPoint26
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint26
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint19
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.678418636322
+        x: -3.94258101721e-08
+        y: 1.28485622142e-09
+        z: 0.734675586224
+      position:
+        x: -38.3356018066
+        y: -34.8185005188
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint2
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.391000+00:00
+    timestamp: 1613579184391290903
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint2_WayPoint1
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint1
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint2_WayPoint3
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint3
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint2
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.732644617558
+        x: -4.02038082825e-08
+        y: -5.60208146538e-09
+        z: 0.680611491203
+      position:
+        x: -53.1075
+        y: -29.310352
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint20
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.395000+00:00
+    timestamp: 1613579184395138978
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint20_WayPoint19
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint19
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint20_WayPoint21
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint21
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint20
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.689546346664
+        x: -4.17931182994e-08
+        y: 4.24502710761e-10
+        z: 0.724241554737
+      position:
+        x: -38.3356
+        y: -29.310352
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint21
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.398000+00:00
+    timestamp: 1613579184398663997
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint21_WayPoint20
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint20
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint21_WayPoint22
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint22
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint21
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.71546715498
+        x: -4.55203199579e-08
+        y: -1.89997084732e-09
+        z: 0.698646366596
+      position:
+        x: -38.3356
+        y: -23.805704
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint22
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.401000+00:00
+    timestamp: 1613579184401721000
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint22_WayPoint21
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint21
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint22_WayPoint23
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint23
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint22
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.686280429363
+        x: -4.36789271419e-08
+        y: -2.44342102107e-10
+        z: 0.727337062359
+      position:
+        x: -38.3356
+        y: -18.301056
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint23
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.404000+00:00
+    timestamp: 1613579184404755115
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint23_WayPoint22
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint22
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint23_WayPoint24
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint24
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint23
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.715381026268
+        x: -3.99559425546e-08
+        y: 2.48303222428e-09
+        z: 0.69873458147
+      position:
+        x: -38.3356
+        y: -12.796408
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint24
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.407000+00:00
+    timestamp: 1613579184407947063
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint24_WayPoint18
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint18
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint24_WayPoint25
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint25
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint24_WayPoint23
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint23
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint24
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.707032859325
+        x: 3.40801022958e-08
+        y: -1.22363648103e-08
+        z: 0.707180738449
+      position:
+        x: -38.3355827332
+        y: -7.29176139832
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint25
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.411000+00:00
+    timestamp: 1613579184411334991
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint25_WayPoint24
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint24
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint25_WayPoint32
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint32
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint25
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.720519900322
+        x: -3.66481771152e-07
+        y: 1.16965850339e-07
+        z: -0.693434238434
+      position:
+        x: -38.3475570679
+        y: -4.08320617676
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint26
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.414000+00:00
+    timestamp: 1613579184414712905
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint26_WayPoint19
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint19
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint26_WayPoint27
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint27
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint26_WayPoint33
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint33
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint26
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.697345018387
+        x: -4.81826560872e-08
+        y: -7.27914706289e-09
+        z: 0.716735601425
+      position:
+        x: -33.4962997437
+        y: -34.8185005188
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint27
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.417000+00:00
+    timestamp: 1613579184417988061
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint27_WayPoint26
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint26
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint27_WayPoint28
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint28
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint27
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.695543169975
+        x: -3.6177162599e-08
+        y: 7.01511426726e-09
+        z: 0.718484282494
+      position:
+        x: -33.4963
+        y: -29.310352
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint28
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.421000+00:00
+    timestamp: 1613579184421329975
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint28_WayPoint27
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint27
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint28_WayPoint29
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint29
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint28
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.69168394804
+        x: -4.08546760866e-08
+        y: 1.17299572833e-10
+        z: 0.722200334072
+      position:
+        x: -33.4963
+        y: -23.805704
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint29
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.424000+00:00
+    timestamp: 1613579184424670934
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint29_WayPoint28
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint28
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint29_WayPoint30
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint30
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint29
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.717708945274
+        x: -3.64093217797e-08
+        y: 1.04577524418e-09
+        z: 0.696343302727
+      position:
+        x: -33.4963
+        y: -18.301056
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint3
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.428000+00:00
+    timestamp: 1613579184428044080
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint3_WayPoint2
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint2
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint3_WayPoint4
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint4
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint3
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.696603357792
+        x: -4.42638814491e-08
+        y: -3.66524766093e-09
+        z: 0.717456519604
+      position:
+        x: -53.1075
+        y: -23.805704
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint30
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.431000+00:00
+    timestamp: 1613579184431360006
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint30_WayPoint29
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint29
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint30_WayPoint31
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint31
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint30
+    pointset: walmart
+    pose:
+      orientation:
+        w: -0.68462318182
+        x: -4.11863538829e-08
+        y: -1.68869114248e-08
+        z: -0.72889727354
+      position:
+        x: -33.4963
+        y: -12.796408
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint31
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.434000+00:00
+    timestamp: 1613579184434582948
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint31_WayPoint30
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint30
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint31_WayPoint32
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint32
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint31
+    pointset: walmart
+    pose:
+      orientation:
+        w: -0.698365569115
+        x: -3.27916040987e-08
+        y: 1.02270874436e-07
+        z: -0.715741276741
+      position:
+        x: -33.4962997437
+        y: -7.2917599678
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint32
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.437000+00:00
+    timestamp: 1613579184437851905
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint32_WayPoint25
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint25
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint32_WayPoint31
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint31
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint32_WayPoint39
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint39
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint32
+    pointset: walmart
+    pose:
+      orientation:
+        w: -0.706711053848
+        x: -3.74030193484e-08
+        y: -2.63685571156e-08
+        z: 0.707502365112
+      position:
+        x: -33.496257782
+        y: -4.09627628326
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint33
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.441000+00:00
+    timestamp: 1613579184441241979
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint33_WayPoint26
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint26
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint33_WayPoint34
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint34
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint33_WayPoint40
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint40
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint33
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.686320722103
+        x: -4.03097892843e-08
+        y: 2.18356471793e-10
+        z: 0.7272990942
+      position:
+        x: -28.7343006134
+        y: -34.8185005188
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint34
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.444000+00:00
+    timestamp: 1613579184444746017
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint34_WayPoint33
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint33
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint34_WayPoint35
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint35
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint34
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.678885221481
+        x: -3.98881603303e-08
+        y: -9.5572638692e-10
+        z: 0.734244406223
+      position:
+        x: -28.7343
+        y: -29.310352
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint35
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.448000+00:00
+    timestamp: 1613579184448270082
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint35_WayPoint34
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint34
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint35_WayPoint36
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint36
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint35
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.706295311451
+        x: -4.13080876172e-08
+        y: 3.06678502038e-11
+        z: 0.707917332649
+      position:
+        x: -28.7343
+        y: -23.805704
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint36
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.451000+00:00
+    timestamp: 1613579184451700925
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint36_WayPoint35
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint35
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint36_WayPoint37
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint37
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint36
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.690265238285
+        x: -3.98634085741e-08
+        y: 1.59201418715e-09
+        z: 0.723556399345
+      position:
+        x: -28.7343
+        y: -18.301056
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint37
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.455000+00:00
+    timestamp: 1613579184455007076
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint37_WayPoint36
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint36
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint37_WayPoint38
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint38
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint37
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.700812518597
+        x: -4.16412646587e-08
+        y: -1.37599293071e-10
+        z: 0.713345468044
+      position:
+        x: -28.7343
+        y: -12.796408
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint38
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.458000+00:00
+    timestamp: 1613579184458345890
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint38_WayPoint37
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint37
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint38_WayPoint39
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint39
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint38
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.700518190861
+        x: -4.46963603906e-08
+        y: -7.7204742599e-10
+        z: 0.713634550571
+      position:
+        x: -28.7343006134
+        y: -7.2917599678
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint39
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.461000+00:00
+    timestamp: 1613579184461740970
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint39_WayPoint38
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint38
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint39_WayPoint32
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint32
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint39_WayPoint46
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint46
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint39
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.714611113071
+        x: 4.66793323994e-08
+        y: -4.07987954532e-09
+        z: -0.699522018433
+      position:
+        x: -28.7342700958
+        y: -4.08911657333
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint4
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.464000+00:00
+    timestamp: 1613579184464994907
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint4_WayPoint3
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint3
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint4_WayPoint5
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint5
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint4
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.722973167896
+        x: -4.11875795692e-08
+        y: -2.01342414963e-10
+        z: 0.690876126289
+      position:
+        x: -53.1075
+        y: -18.301056
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint40
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.468000+00:00
+    timestamp: 1613579184468377113
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint40_WayPoint33
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint33
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint40_WayPoint41
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint41
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint40_WayPoint47
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint47
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint40
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.716548800468
+        x: -4.34982041497e-08
+        y: -6.95155266683e-09
+        z: 0.697537004948
+      position:
+        x: -23.9067001343
+        y: -34.8185005188
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint41
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.471000+00:00
+    timestamp: 1613579184471606016
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint41_WayPoint40
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint40
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint41_WayPoint42
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint42
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint41
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.717031896114
+        x: -3.5967911316e-08
+        y: 1.74807346376e-09
+        z: 0.697040438652
+      position:
+        x: -23.9067
+        y: -29.310352
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint42
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.474000+00:00
+    timestamp: 1613579184474956035
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint42_WayPoint41
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint41
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint42_WayPoint43
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint43
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint42
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.687147855759
+        x: -4.71802010793e-08
+        y: -3.9115812811e-09
+        z: 0.726517677307
+      position:
+        x: -23.9067
+        y: -23.805704
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint43
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.478000+00:00
+    timestamp: 1613579184478216886
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint43_WayPoint44
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint44
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint43_WayPoint42
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint42
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint43
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.707024216652
+        x: -4.17200034519e-08
+        y: 1.69942795947e-10
+        z: 0.707189321518
+      position:
+        x: -23.9067
+        y: -18.301056
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint44
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.482000+00:00
+    timestamp: 1613579184482768058
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint44_WayPoint43
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint43
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint44_WayPoint45
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint45
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint44
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.702098369598
+        x: -4.20878230045e-08
+        y: 6.88183676711e-10
+        z: 0.712080001831
+      position:
+        x: -23.9067
+        y: -12.796408
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint45
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.486000+00:00
+    timestamp: 1613579184486150979
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint45_WayPoint44
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint44
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint45_WayPoint46
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint46
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint45
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.708266913891
+        x: -4.68837839662e-08
+        y: -5.37477262696e-09
+        z: 0.70594471693
+      position:
+        x: -23.9067001343
+        y: -7.2917599678
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint46
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.490000+00:00
+    timestamp: 1613579184490287065
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint46_WayPoint39
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint39
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint46_WayPoint45
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint45
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint46_WayPoint53
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint53
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint46
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.695419192314
+        x: 4.49092354415e-08
+        y: -9.55458290264e-09
+        z: -0.718604326248
+      position:
+        x: -23.9067153931
+        y: -4.06478500366
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint47
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.493000+00:00
+    timestamp: 1613579184493994951
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint47_WayPoint40
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint40
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint47_WayPoint48
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint48
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint47_WayPoint54
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint54
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint47
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.702374458313
+        x: -4.3097070801e-08
+        y: 4.38700714644e-10
+        z: 0.711807668209
+      position:
+        x: -19.0601005554
+        y: -34.8185005188
+        z: 3.81469726562e-06
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint48
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.497000+00:00
+    timestamp: 1613579184497477054
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint48_WayPoint47
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint47
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint48_WayPoint49
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint49
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint48
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.63915002346
+        x: -5.02303727501e-08
+        y: -6.1553242503e-09
+        z: 0.769082188606
+      position:
+        x: -19.0601
+        y: -29.310352
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint49
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.500000+00:00
+    timestamp: 1613579184500933885
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint49_WayPoint48
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint48
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint49_WayPoint50
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint50
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint49
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.715369999409
+        x: -3.96424226778e-08
+        y: 3.29990618164e-10
+        z: 0.698745906353
+      position:
+        x: -19.0601
+        y: -23.805704
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint5
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.504000+00:00
+    timestamp: 1613579184504414081
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint5_WayPoint4
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint4
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint5_WayPoint6
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint6
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint5
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.72168982029
+        x: -4.12387812787e-08
+        y: 4.28674873376e-11
+        z: 0.692216575146
+      position:
+        x: -53.1075
+        y: -12.796408
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint50
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.507000+00:00
+    timestamp: 1613579184507832050
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint50_WayPoint51
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint51
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint50_WayPoint49
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint49
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint50
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.707997620106
+        x: -3.93315531255e-08
+        y: 4.57040716384e-09
+        z: 0.706214845181
+      position:
+        x: -19.0601
+        y: -18.301056
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint51
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.511000+00:00
+    timestamp: 1613579184511288881
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint51_WayPoint52
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint52
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint51_WayPoint50
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint50
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint51
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.697747290134
+        x: -4.20073114071e-08
+        y: 4.52451492938e-10
+        z: 0.716343998909
+      position:
+        x: -19.0601
+        y: -12.796408
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint52
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.514000+00:00
+    timestamp: 1613579184514713048
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint52_WayPoint53
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint53
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint52_WayPoint51
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint51
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint52
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.698026895523
+        x: -3.55843745581e-08
+        y: 7.0138121977e-09
+        z: 0.716071605682
+      position:
+        x: -19.0601005554
+        y: -7.2917599678
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint53
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.518000+00:00
+    timestamp: 1613579184518215894
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint53_WayPoint46
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint46
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint53_WayPoint52
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint52
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint53_WayPoint60
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint60
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint53
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.712300539017
+        x: 4.24447712533e-08
+        y: 2.70187400231e-10
+        z: -0.701874554157
+      position:
+        x: -19.0601387024
+        y: -4.13085412979
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint54
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.521000+00:00
+    timestamp: 1613579184521673917
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint54_WayPoint47
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint47
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint54_WayPoint55
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint55
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint54_WayPoint61
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint61
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint54
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.705608546734
+        x: -3.89867800266e-08
+        y: 9.89930581952e-10
+        z: 0.708601891994
+      position:
+        x: -13.1669998169
+        y: -34.8185005188
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint55
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.525000+00:00
+    timestamp: 1613579184525127887
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint55_WayPoint54
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint54
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint55_WayPoint56
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint56
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint55
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.703764021397
+        x: -3.86841634281e-08
+        y: 9.52762091444e-10
+        z: 0.710433781147
+      position:
+        x: -13.167
+        y: -29.310352
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint56
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.528000+00:00
+    timestamp: 1613579184528495073
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint56_WayPoint55
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint55
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint56_WayPoint57
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint57
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint56
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.735787570477
+        x: -4.57010074228e-08
+        y: -3.40047923153e-09
+        z: 0.67721247673
+      position:
+        x: -13.167
+        y: -23.805704
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint57
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.531000+00:00
+    timestamp: 1613579184531915903
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint57_WayPoint56
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint56
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint57_WayPoint58
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint58
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint57
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.714603126049
+        x: -4.62909923726e-08
+        y: -5.53230661282e-09
+        z: 0.699530124664
+      position:
+        x: -13.167
+        y: -18.301056
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint58
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.535000+00:00
+    timestamp: 1613579184535238027
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint58_WayPoint57
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint57
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint58_WayPoint59
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint59
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint58
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.685733795166
+        x: -4.64088500962e-08
+        y: -3.22561399813e-09
+        z: 0.727852463722
+      position:
+        x: -13.167
+        y: -12.796408
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint59
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.538000+00:00
+    timestamp: 1613579184538675069
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint59_WayPoint58
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint58
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint59_WayPoint60
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint60
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint59
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.699695169926
+        x: -4.45455903275e-08
+        y: -1.4548443561e-09
+        z: 0.714441537857
+      position:
+        x: -13.1669998169
+        y: -7.2917599678
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint6
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.542000+00:00
+    timestamp: 1613579184542011022
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint6_WayPoint5
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint5
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint6_WayPoint12
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint12
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint6
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.702826142311
+        x: 4.0582026628e-08
+        y: -1.6745581588e-09
+        z: -0.711361646652
+      position:
+        x: -53.1075210571
+        y: -7.35710716248
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint60
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.545000+00:00
+    timestamp: 1613579184545396089
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint60_WayPoint59
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint59
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint60_WayPoint53
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint53
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint60_WayPoint67
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint67
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint60
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.723772585392
+        x: 3.86994898349e-08
+        y: 3.30392802006e-09
+        z: -0.690038621426
+      position:
+        x: -13.1670017242
+        y: -4.09721231461
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint61
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.548000+00:00
+    timestamp: 1613579184548868894
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint61_WayPoint54
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint54
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint61_WayPoint62
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint62
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint61_WayPoint68
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint68
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint61
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.707104444504
+        x: -4.05056859165e-08
+        y: 1.85882642612e-10
+        z: 0.707109153271
+      position:
+        x: -8.23633956909
+        y: -34.8185005188
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint62
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.552000+00:00
+    timestamp: 1613579184552355051
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint62_WayPoint61
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint61
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint62_WayPoint63
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint63
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint62
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.686665117741
+        x: -5.13491578147e-08
+        y: -4.71191863305e-10
+        z: 0.726973950863
+      position:
+        x: -8.23634
+        y: -29.310352
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint63
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.555000+00:00
+    timestamp: 1613579184555727958
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint63_WayPoint62
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint62
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint63_WayPoint64
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint64
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint63
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.710751950741
+        x: -3.95742745241e-08
+        y: 1.29516741776e-09
+        z: 0.703442752361
+      position:
+        x: -8.23634
+        y: -23.805704
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint64
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.559000+00:00
+    timestamp: 1613579184559139966
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint64_WayPoint63
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint63
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint64_WayPoint65
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint65
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint64
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.714410960674
+        x: -4.40572094362e-08
+        y: -1.10498066253e-09
+        z: 0.699726343155
+      position:
+        x: -8.23634
+        y: -18.301056
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint65
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.562000+00:00
+    timestamp: 1613579184562660932
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint65_WayPoint64
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint64
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint65_WayPoint66
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint66
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint65
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.681466162205
+        x: -4.53042652282e-08
+        y: -1.15241904908e-09
+        z: 0.73184967041
+      position:
+        x: -8.23634
+        y: -12.796408
+        z: 3.81469726562e-06
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint66
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.566000+00:00
+    timestamp: 1613579184566123962
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint66_WayPoint65
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint65
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint66_WayPoint67
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint67
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint66
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.705527484417
+        x: -4.40768133103e-08
+        y: -9.92046111925e-10
+        z: 0.708682656288
+      position:
+        x: -8.23633956909
+        y: -7.2917599678
+        z: 3.81469726562e-06
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint67
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.569000+00:00
+    timestamp: 1613579184569514989
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint67_WayPoint66
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint66
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint67_WayPoint60
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint60
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint67_WayPoint74
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint74
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint67
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.714269936085
+        x: 4.10990566024e-08
+        y: -5.47620437885e-09
+        z: -0.699870347977
+      position:
+        x: -8.23633670807
+        y: -4.07768344879
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint68
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.572000+00:00
+    timestamp: 1613579184572933912
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint68_WayPoint69
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint69
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint68_WayPoint61
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint61
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint68_WayPoint110
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint110
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint68_WayPoint75
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint75
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint68
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.70171135664
+        x: -3.96322867857e-08
+        y: 1.02077857278e-09
+        z: 0.712461352348
+      position:
+        x: -2.31454992294
+        y: -34.8185005188
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint69
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.576000+00:00
+    timestamp: 1613579184576508045
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint69_WayPoint70
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint70
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint69_WayPoint68
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint68
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint69
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.714636623859
+        x: -4.09239255816e-08
+        y: 5.1821569258e-09
+        z: 0.699495911598
+      position:
+        x: -2.31455
+        y: -29.310352
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint7
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.579000+00:00
+    timestamp: 1613579184579900026
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint7_WayPoint1
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint1
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint7_WayPoint8
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint8
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint7_WayPoint13
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint13
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint7
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.692007362843
+        x: -4.15696490563e-08
+        y: 8.74894645619e-09
+        z: 0.721890509129
+      position:
+        x: -48.1977005005
+        y: -34.8185005188
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint70
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.583000+00:00
+    timestamp: 1613579184583365917
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint70_WayPoint71
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint71
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint70_WayPoint69
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint69
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint70
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.736721873283
+        x: -4.03501942969e-08
+        y: -2.79965250982e-09
+        z: 0.676195979118
+      position:
+        x: -2.31455
+        y: -23.805704
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint71
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.631000+00:00
+    timestamp: 1613579184631850004
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint71_WayPoint72
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint72
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint71_WayPoint70
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint70
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint71
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.7031031847
+        x: -4.05691658045e-08
+        y: 3.2675786521e-09
+        z: 0.711087822914
+      position:
+        x: -2.31455
+        y: -18.301056
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint72
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.635000+00:00
+    timestamp: 1613579184635473012
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint72_WayPoint73
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint73
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint72_WayPoint71
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint71
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint72
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.712799549103
+        x: -4.19741574831e-08
+        y: -3.28099131197e-10
+        z: 0.701367795467
+      position:
+        x: -2.31455
+        y: -12.796408
+        z: 3.81469726562e-06
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint73
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.639000+00:00
+    timestamp: 1613579184639004945
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint73_WayPoint74
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint74
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint73_WayPoint72
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint72
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint73
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.716347813606
+        x: -3.83196159248e-08
+        y: 4.16074757981e-10
+        z: 0.697743356228
+      position:
+        x: -2.31454992294
+        y: -7.2917599678
+        z: 3.81469726562e-06
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint74
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.642000+00:00
+    timestamp: 1613579184642571926
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint74_WayPoint67
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint67
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint74_WayPoint73
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint73
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint74_WayPoint81
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint81
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint74
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.694641888142
+        x: 4.14265421966e-08
+        y: 8.53725801164e-09
+        z: -0.719355821609
+      position:
+        x: -2.31455373764
+        y: -4.0935459137
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint75
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.646000+00:00
+    timestamp: 1613579184646102905
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint75_WayPoint68
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint68
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint75_WayPoint82
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint82
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint75_WayPoint111
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint111
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint75_WayPoint76
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint76
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint75
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.667586326599
+        x: -4.18828172144e-08
+        y: 6.38964048338e-10
+        z: 0.74453240633
+      position:
+        x: 2.60084009171
+        y: -34.8185005188
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint76
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.649000+00:00
+    timestamp: 1613579184649539947
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint76_WayPoint77
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint77
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint76_WayPoint75
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint75
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint76
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.694999396801
+        x: -4.04717468427e-08
+        y: 4.90610385651e-10
+        z: 0.719010353088
+      position:
+        x: 2.60084
+        y: -29.310352
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint77
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.652000+00:00
+    timestamp: 1613579184652909040
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint77_WayPoint78
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint78
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint77_WayPoint76
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint76
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint77
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.712144315243
+        x: -4.40864909024e-08
+        y: -1.59500856967e-09
+        z: 0.702033102512
+      position:
+        x: 2.60084
+        y: -23.805704
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint78
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.656000+00:00
+    timestamp: 1613579184656286954
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint78_WayPoint79
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint79
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint78_WayPoint77
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint77
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint78
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.696689069271
+        x: -4.57616593508e-08
+        y: -1.35373801058e-09
+        z: 0.717373251915
+      position:
+        x: 2.60084
+        y: -18.301056
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint79
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.659000+00:00
+    timestamp: 1613579184659676074
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint79_WayPoint80
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint80
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint79_WayPoint78
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint78
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint79
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.693296730518
+        x: -3.61104817159e-08
+        y: 1.17548148992e-09
+        z: 0.720652222633
+      position:
+        x: 2.60084
+        y: -12.796408
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint8
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.663000+00:00
+    timestamp: 1613579184663052082
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint8_WayPoint7
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint7
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint8_WayPoint9
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint9
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint8
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.703678131104
+        x: -4.42667946743e-08
+        y: -5.55971668703e-09
+        z: 0.71051889658
+      position:
+        x: -48.1977
+        y: -29.310352
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint80
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.666000+00:00
+    timestamp: 1613579184666491985
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint80_WayPoint81
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint81
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint80_WayPoint79
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint79
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint80
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.710507690907
+        x: -4.00834352376e-08
+        y: 9.03258134954e-10
+        z: 0.703689455986
+      position:
+        x: 2.60084009171
+        y: -7.2917599678
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint81
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.669000+00:00
+    timestamp: 1613579184669892072
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint81_WayPoint74
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint74
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint81_WayPoint80
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint80
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint81_WayPoint88
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint88
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint81
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.70734590292
+        x: 4.37700720113e-08
+        y: 4.06331635006e-09
+        z: -0.706867575645
+      position:
+        x: 2.60084319115
+        y: -4.07818508148
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint82
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.673000+00:00
+    timestamp: 1613579184673368930
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint82_WayPoint75
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint75
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint82_WayPoint112
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint112
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint82_WayPoint83
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint83
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint82_WayPoint89
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint89
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint82
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.708396017551
+        x: -3.9711608224e-08
+        y: 2.05510594653e-10
+        z: 0.705815196037
+      position:
+        x: 8.50911998749
+        y: -34.8185005188
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint83
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.676000+00:00
+    timestamp: 1613579184676827907
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint83_WayPoint82
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint82
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint83_WayPoint84
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint84
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint83
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.678487479687
+        x: -4.20546726332e-08
+        y: 1.10685960397e-09
+        z: 0.734611988068
+      position:
+        x: 8.50912
+        y: -29.310352
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint84
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.680000+00:00
+    timestamp: 1613579184680259943
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint84_WayPoint83
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint83
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint84_WayPoint85
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint85
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint84
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.682915747166
+        x: -3.71937183274e-08
+        y: 3.75916520134e-10
+        z: 0.730497181416
+      position:
+        x: 8.50912
+        y: -23.805704
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint85
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.683000+00:00
+    timestamp: 1613579184683640956
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint85_WayPoint84
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint84
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint85_WayPoint86
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint86
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint85
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.670921564102
+        x: -4.63173144283e-08
+        y: -1.37426803271e-09
+        z: 0.741528332233
+      position:
+        x: 8.50912
+        y: -18.301056
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint86
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.686000+00:00
+    timestamp: 1613579184686988115
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint86_WayPoint85
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint85
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint86_WayPoint87
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint87
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint86
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.685767948627
+        x: -4.15972323253e-08
+        y: 3.88294424392e-10
+        z: 0.727820277214
+      position:
+        x: 8.50912
+        y: -12.796408
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint87
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.690000+00:00
+    timestamp: 1613579184690809011
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint87_WayPoint86
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint86
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint87_WayPoint88
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint88
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint87
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.707893967628
+        x: -3.22516378048e-08
+        y: 4.82400608348e-09
+        z: 0.706318736076
+      position:
+        x: 8.50911998749
+        y: -7.2917599678
+        z: 3.81469726562e-06
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint88
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.694000+00:00
+    timestamp: 1613579184694660902
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint88_WayPoint87
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint87
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint88_WayPoint81
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint81
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint88_WayPoint95
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint95
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint88
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.728662967682
+        x: 4.08435631982e-08
+        y: -4.21786966465e-10
+        z: -0.684872508049
+      position:
+        x: 8.50912475586
+        y: -4.08252048492
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint89
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.698000+00:00
+    timestamp: 1613579184698329925
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint89_WayPoint90
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint90
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint89_WayPoint82
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint82
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint89_WayPoint113
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint113
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint89_WayPoint96
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint96
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint89
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.705689251423
+        x: -3.79842823861e-08
+        y: 8.38232053213e-11
+        z: 0.708521544933
+      position:
+        x: 15.4028997421
+        y: -34.8185005188
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint9
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.701000+00:00
+    timestamp: 1613579184701888084
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint9_WayPoint8
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint8
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint9_WayPoint10
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint10
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint9
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.713364601135
+        x: -3.88198593271e-08
+        y: 1.32472288694e-09
+        z: 0.700793147087
+      position:
+        x: -48.1977
+        y: -23.805704
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint90
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.705000+00:00
+    timestamp: 1613579184705363035
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint90_WayPoint91
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint91
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint90_WayPoint89
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint89
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint90
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.728212833405
+        x: -3.76433213489e-08
+        y: 5.05205155488e-10
+        z: 0.685351133347
+      position:
+        x: 15.4029
+        y: -29.310352
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint91
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.708000+00:00
+    timestamp: 1613579184708887100
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint91_WayPoint92
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint92
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint91_WayPoint90
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint90
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint91
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.727419018745
+        x: -3.77452415989e-08
+        y: 4.91330864882e-10
+        z: 0.686193525791
+      position:
+        x: 15.4029
+        y: -23.805704
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint92
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.712000+00:00
+    timestamp: 1613579184712225914
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint92_WayPoint93
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint93
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint92_WayPoint91
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint91
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint92
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.678601741791
+        x: -4.10902210035e-08
+        y: 7.99448840461e-10
+        z: 0.734506487846
+      position:
+        x: 15.4029
+        y: -18.301056
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint93
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.715000+00:00
+    timestamp: 1613579184715714931
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint93_WayPoint94
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint94
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint93_WayPoint92
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint92
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint93
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.707864224911
+        x: -3.8345223885e-08
+        y: 8.39606578706e-11
+        z: 0.706348598003
+      position:
+        x: 15.4029
+        y: -12.796408
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint94
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.719000+00:00
+    timestamp: 1613579184719074964
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint94_WayPoint95
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint95
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint94_WayPoint93
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint93
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint94
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.685332417488
+        x: -3.99374009419e-08
+        y: 5.21728715785e-10
+        z: 0.728230416775
+      position:
+        x: 15.4028997421
+        y: -7.2917599678
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint95
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.722000+00:00
+    timestamp: 1613579184722691059
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint95_WayPoint88
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint88
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint95_WayPoint94
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint94
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint95_WayPoint102
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint102
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint95
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.711328923702
+        x: 3.77476396807e-08
+        y: -7.35173744104e-09
+        z: -0.702859282494
+      position:
+        x: 15.4028911591
+        y: -4.09537887573
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint96
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.726000+00:00
+    timestamp: 1613579184726177930
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint96_WayPoint89
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint89
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint96_WayPoint114
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint114
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint96_WayPoint97
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint97
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint96_WayPoint103
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint103
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint96
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.689815938473
+        x: -4.19370387306e-08
+        y: 1.08064147908e-10
+        z: 0.723984777927
+      position:
+        x: 22.3274002075
+        y: -34.8185005188
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint97
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.729000+00:00
+    timestamp: 1613579184729839086
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint97_WayPoint98
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint98
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint97_WayPoint96
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint96
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint97
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.656706988811
+        x: -4.73817465263e-08
+        y: 6.60345056414e-10
+        z: 0.754145979881
+      position:
+        x: 22.3274
+        y: -29.310352
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint98
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.777000+00:00
+    timestamp: 1613579184777192115
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint98_WayPoint99
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint99
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint98_WayPoint97
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint97
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint98
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.684624135494
+        x: -3.83172960028e-08
+        y: 7.93560772649e-10
+        z: 0.728896319866
+      position:
+        x: 22.3274
+        y: -23.805704
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
+- meta:
+    map: unused
+    node: WayPoint99
+    pointset: walmart
+    published_at: 2021-02-17 16:26:24.780000+00:00
+    timestamp: 1613579184780972957
+  node:
+    edges:
+    - action: move_base
+      edge_id: WayPoint99_WayPoint100
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint100
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    - action: move_base
+      edge_id: WayPoint99_WayPoint98
+      inflation_radius: 0.0
+      map_2d: unused
+      node: WayPoint98
+      recovery_behaviours_config: ''
+      top_vel: 0.55
+    localise_by_topic: ''
+    map: unused
+    name: WayPoint99
+    pointset: walmart
+    pose:
+      orientation:
+        w: 0.703688561916
+        x: -4.03735676002e-08
+        y: 3.41592004682e-10
+        z: 0.710508584976
+      position:
+        x: 22.3274
+        y: -18.301056
+        z: 0.0
+    verts:
+    - x: 0.692909657955
+      y: 0.287012577057
+    - x: 0.287012577057
+      y: 0.692909657955
+    - x: -0.287012577057
+      y: 0.692909657955
+    - x: -0.692909657955
+      y: 0.287012577057
+    - x: -0.692909657955
+      y: -0.287012577057
+    - x: -0.287012577057
+      y: -0.692909657955
+    - x: 0.287012577057
+      y: -0.692909657955
+    - x: 0.692909657955
+      y: -0.287012577057
+    xy_goal_tolerance: 0.3
+    yaw_goal_tolerance: 0.1
